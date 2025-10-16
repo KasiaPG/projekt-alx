@@ -2,3 +2,6 @@ Informacja z pliku
 Przerwa o 12:30
 Koniec przerwy o 13:30
 Kolejna przerwa ok. 15:00
+---
+kontakt do trenera:
+t.kaniecki@alx.pl
